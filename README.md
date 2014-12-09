@@ -37,7 +37,7 @@ Return the amount space remained.
     $ grunt ci
 
 #### Run karma tests in webstorm
-You can run the karma test through webstorm. Just create a new karma run configuration and choose the config file `test/karma.webstorm.conf.js`.
+You can run the karma test through webstorm. Just create a new karma run configuration and choose the config file `test/karma.conf.js`.
 
 ## Contributing
 Instead of us handing out a formal style guide, simply stick to the existing programming style. Please create descriptive commit messages.
