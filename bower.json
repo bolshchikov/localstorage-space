@@ -1,6 +1,6 @@
 {
   "name": "localstorage-space",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility methods for localStorage to calculate available and remaining space",
   "homepage": "https://github.com/bolshchikov/localstorage-space",
   "author": {
