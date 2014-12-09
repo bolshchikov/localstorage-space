@@ -131,11 +131,11 @@ module.exports = function (grunt) {
         }
       },
       coverage: {
-        configFile: 'test/karma.coverage.conf.js',
+        configFile: 'test/karma.conf.js',
         colors: false
       },
       cobertura: {
-        configFile: 'test/karma.coverage.conf.js',
+        configFile: 'test/karma.conf.js',
         colors: false,
         coverageReporter: {
           type: 'cobertura',

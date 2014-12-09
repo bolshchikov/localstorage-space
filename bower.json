@@ -33,7 +33,7 @@
     "validate-commit-msg.js"
   ],
   "dependencies": {
+    "bytes-counter": "~1.0.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
