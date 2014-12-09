@@ -1,6 +1,6 @@
 # localstorage-space
-[![Build Status](https://secure.travis-ci.org/bolshchikov/localstorage-space.svg?branch=master)](https://travis-ci.org/bolshchikov/localstorage-space)  [![Bower version](https://badge.fury.io/bo/localstorage-space.svg)](http://badge.fury.io/bo/localstorage-space) [![david-dm](https://david-dm.org/bolshchikov/localstorage-space.svg?theme=shields.io)](https://david-dm.org/bolshchikov/localstorage-space/)
-[![david-dm](https://david-dm.org/bolshchikov/localstorage-space/dev-status.svg?theme=shields.io)](https://david-dm.org/bolshchikov/localstorage-space#info=devDependencies&view=table)
+[![Build Status](https://secure.travis-ci.org/bolshchikov/localstorage-space.svg?branch=master)](https://travis-ci.org/bolshchikov/localstorage-space)
+
 
 > Utility methods for localStorage to calculate available and remaining space
 
