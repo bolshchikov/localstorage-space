@@ -1,0 +1,39 @@
+{
+  "name": "localstorage-space",
+  "version": "0.0.0",
+  "description": "Utility methods for localStorage to calculate available and remaining space",
+  "homepage": "https://github.com/bolshchikov/localstorage-space",
+  "author": {
+    "name": "Sergey N. Bolshchikov",
+    "email": "sergey@bolshchikov.net",
+    "url": "http://bolshchikov.net"
+  },
+  "maintainers": [
+    ""
+  ],
+  "license": "MIT",
+  "keywords": [
+    "localstorage-space",
+    "localstorage",
+    "space",
+    "utils"
+  ],
+  "main": "./localstorage-space.js",
+  "ignore": [
+    ".*",
+    "bower_components",
+    "build",
+    "CHANGELOG.md",
+    "Gruntfile.js",
+    "lib",
+    "LICENSE",
+    "node_modules",
+    "package.json",
+    "test",
+    "validate-commit-msg.js"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
