@@ -35,5 +35,7 @@
   "dependencies": {
     "bytes-counter": "~1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "angular-mocks": "~1.3.6"
+  }
 }
