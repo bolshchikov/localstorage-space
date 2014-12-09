@@ -9,7 +9,7 @@
   'use strict';
 
   var KEY = 'bolshchikov';
-  var fill = new Array(1025 * 10).join('x');
+  var fill = new Array(1025 * 5).join('x');
 
   var ls = window.localStorage;
   var counter = window.bytesCounter.count;

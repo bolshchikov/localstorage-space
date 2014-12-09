@@ -6,6 +6,18 @@
 
 ## Installation 
     $ bower install localstorage-space
+    
+## Use
+This library provide two additional properties of localStorage `space` and `spaceRemained`.
+
+    localStorage.space
+    
+Returns the overall available space of a local storage.
+
+    localStorage.spaceRemained
+    
+Return the amount space remained.
+
 
 ## Testing
 ### Install global dependencies
